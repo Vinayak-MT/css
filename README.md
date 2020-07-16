@@ -4,7 +4,7 @@
     <title>CSS-HTML</title>
     <style>
       h1 {
-       font-color: blue;
+       color: blue;
       }
     </style>
   </head>
